@@ -17,18 +17,34 @@ A browser extension for Chrome and Brave that automatically translates Twitch ch
 
 ## 📸 Screenshots
 
-![Extension Popup](screenshots/Screenshot%202026-01-07%20212509.png)
-
+![Extension Popup](<screenshots/Screenshot 2026-01-07 212509.png>)
 *Extension settings popup with language selection*
 
-![Translation in Action](screenshots/Screenshot%202026-01-07%20215629.png)
+![Translation in Action](<screenshots/Screenshot 2026-01-07 212756.png>)
 *Twitch chat with translated messages showing the 🌐 indicator*
-
-*Note: Add your own screenshots or update these paths to match your screenshot files*
 
 ## 🚀 Installation
 
-### Method 1: Manual Installation (Recommended)
+### Method 1: Quick Installation (Recommended)
+
+1. **Download the Extension**
+   - Go to the **Releases** page on this repository (click "Releases" on the right sidebar or navigate to `/releases`)
+   - Download the `twitch-translator.crx` file from the latest release
+
+2. **Install in Chrome/Brave**
+   - Open Chrome or Brave browser
+   - Navigate to:
+     - Chrome: `chrome://extensions/`
+     - Brave: `brave://extensions/`
+   - Enable **"Developer mode"** (toggle in the top-right corner)
+   - Simply **drag and drop** the `twitch-translator.crx` file into the extensions page
+   - The extension will be installed automatically!
+
+3. **Verify Installation**
+   - You should see the extension icon in your browser toolbar
+   - Click it to open the settings popup
+
+### Method 2: Manual Installation (From Source)
 
 1. **Download the Extension**
    - Click the green "Code" button on this repository

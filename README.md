@@ -178,6 +178,16 @@ If you encounter any issues or have questions:
 2. Open an issue on GitHub
 3. Check browser console for error messages
 
+## 💝 Donations
+
+If you find this extension useful and would like to support its development, donations are greatly appreciated!
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/Sewer2K)
+
+**Donate via PayPal:** [paypal.me/Sewer2K](https://paypal.me/Sewer2K)
+
+Your support helps maintain and improve this extension. Thank you! 🙏
+
 ## 🔄 Updates
 
 To update the extension:

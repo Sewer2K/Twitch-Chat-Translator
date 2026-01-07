@@ -21,7 +21,7 @@ A browser extension for Chrome and Brave that automatically translates Twitch ch
 
 *Extension settings popup with language selection*
 
-![Translation in Action](screenshots/Screenshot%202026-01-07%20215756.png)
+![Translation in Action](Screenshot%2026-01-07%215643.png)
 *Twitch chat with translated messages showing the 🌐 indicator*
 
 *Note: Add your own screenshots or update these paths to match your screenshot files*

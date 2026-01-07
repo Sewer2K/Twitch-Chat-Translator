@@ -18,6 +18,7 @@ A browser extension for Chrome and Brave that automatically translates Twitch ch
 ## 📸 Screenshots
 
 ![Extension Popup](screenshots/Screenshot%202026-01-07%20212509.png)
+
 *Extension settings popup with language selection*
 
 ![Translation in Action](screenshots/Screenshot%202026-01-07%20215756.png)
